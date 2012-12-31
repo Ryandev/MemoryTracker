@@ -1,0 +1,3 @@
+[submodule "dependancies/rbtreelib"]
+	path = dependancies/rbtreelib
+	url = https://github.com/Ryandev/RBTreelib.git
